@@ -1,3 +1,5 @@
+#insert data in table
+
 import mysql.connector   #import mysql.connector module
 
 dass = mysql.connector.connect(   #establishing the connection

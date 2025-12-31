@@ -1,3 +1,5 @@
+# set primary key in row
+
 import mysql.connector
 
 dass = mysql.connector.connect(

@@ -1,3 +1,5 @@
+# CREATE TABLE from database
+
 import mysql.connector
 
 dass = mysql.connector.connect(

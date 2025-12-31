@@ -1,3 +1,5 @@
+# select data with where
+
 import mysql.connector  #import mysql.connector module
 
 dass = mysql.connector.connect(   #establishing the connection     

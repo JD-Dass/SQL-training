@@ -1,3 +1,5 @@
+#Select data from table
+
 import mysql.connector
 
 dass = mysql.connector.connect(

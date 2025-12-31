@@ -1,3 +1,5 @@
+# SQL statements
+
 """
 Document for sql statements
 
@@ -80,5 +82,8 @@ UPDATE table_name SET column_name = new_value, column_name = new_value, column_n
 
 #delete data in table
 DELETE FROM table_name WHERE condition;   #delete data from the table using WHERE clause
+
+# delete database
+DROP DATABASE IF EXISTS databas_name;    #delete the
 
 """

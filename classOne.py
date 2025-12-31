@@ -1,3 +1,5 @@
+# CONNECT MYSQL
+
 import mysql.connector
 
 dass = mysql.connector.connect(

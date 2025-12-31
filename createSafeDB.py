@@ -1,3 +1,5 @@
+#SAFE CREATE DATABASE
+
 import mysql.connector   #import sql.connector module
 
 dass = mysql.connector.connect(   #establish a connection to the mysql database

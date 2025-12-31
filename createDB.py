@@ -1,3 +1,5 @@
+# CREATE DATABASE
+
 import mysql.connector   # import the mysql.connector module
 
 mydb = mysql.connector.connect(   #establish a connection to the MySql database

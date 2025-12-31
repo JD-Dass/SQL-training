@@ -1,3 +1,5 @@
+# select data from table to ORDER BY
+
 import mysql.connector
 
 dass = mysql.connector.connect(
